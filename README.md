@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83627329-b54a-433e-85bc-c49c7cd0cf47/deploy-status)](https://app.netlify.com/projects/starlit-crepe-62f562/deploys)
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
